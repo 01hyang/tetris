@@ -21,7 +21,8 @@ To install them on Arch Linux:
 
 To install them on Ubuntu:
 
-    sudo apt-get install libsdl-mixer1.2-dev libncurses5-dev
+    #sudo apt-get install libsdl-mixer1.2-dev libncurses5-dev
+    sudo apt install libsdl2-mixer-dev libncurses5-dev
 
 To compile:
 
